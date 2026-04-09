@@ -10,8 +10,8 @@
 
 | Блок | Тема | Часы | Статус |
 |------|------|------|--------|
-| 1 | Expo + React Native база | 3 ч | ⬜ |
-| 2 | Expo Router + навигация | 3 ч | ⬜ |
+| 1 | Expo + React Native база | 3 ч | ✅ |
+| 2 | Expo Router + навигация | 3 ч | 🔄 |
 | 3 | EAS + Dev Builds + Config Plugins | 2 ч | ⬜ |
 | 4 | React Native Reanimated 3 | 5 ч | ⬜ |
 | 5 | Gesture Handler | 4 ч | ⬜ |
@@ -57,7 +57,7 @@
 
 Создай экран «Профиль пользователя» с помощью `npx create-expo-app@latest`. На экране: аватар (`Image`), имя и bio (`Text`), кнопка «Сохранить» (`Pressable` с `expo-haptics` при нажатии). Данные профиля сохраняй в `AsyncStorage` и загружай при открытии через `useEffect`. Вёрстку сделай полностью на Flexbox. Весь код — на TypeScript с типизированными пропсами и стейтом.
 
-> **Статус:** ⬜ Не начато
+> **Статус:** ✅ Завершено
 
 ---
 
